@@ -5,3 +5,4 @@ opencv-python
 pandas
 scikit-learn
 scikit-image
+opencv-python==4.5.0

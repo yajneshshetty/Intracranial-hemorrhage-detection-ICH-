@@ -1,4 +1,5 @@
-
+## Model Info
+Model: CNN-based ICH Detection | Version: 2.0 | Author: Yajnesh
 # Brain Hemorrhage Project
 
 This project is a Django-based web application for Brain Hemorrhage detection.

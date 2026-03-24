@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # ICH Detection - Yajnesh's Update
+=======
+# ICH Detection - Priya's Update
+>>>>>>> feature-priya-readme
 This project is a Django-based web application for Brain Hemorrhage detection.
 
 ## Prerequisites

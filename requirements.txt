@@ -6,4 +6,5 @@ pandas
 scikit-learn
 scikit-image
 opencv-python==4.5.0
-tensorflow==2.0.0
+tensorflow==2.12.0
+ 
